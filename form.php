@@ -1,7 +1,6 @@
 <html>
 
 <head>
-<title>17BCE0343 CSE3002 DA-2</title>
 <style>
 .error {color: #FF0000;}
 </style>
